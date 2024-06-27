@@ -1,0 +1,96 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+.payment{
+    
+    border: 5px solid black;
+    
+}
+.payment-2{
+    margin-left: 38%;
+    border: 2px solid black;
+}
+.cancel{
+    text-align: right;  
+}
+a{
+    text-decoration: none;
+}
+.footer{
+    text-align: center;
+    color: black;
+    font-size: 50px;
+    
+}
+@media screen and (min-width: 1024px) and (max-width: 1294px) {
+      .top{
+        width: 1300px;
+        background-color: aquamarine;
+        padding: 20px;
+      }
+}
+@media screen and (min-width: 320px) and (max-width: 1160px) {
+    
+
+}
+@media screen and (min-width: 320px) and (max-width: 640px) {
+          .top{
+            width: 1275px;
+            background-color: aquamarine;
+            padding: 65px;
+            font-size: 68px;
+          }
+          h2{
+            font-size: 55px;
+          }
+          .pay{
+            font-size: 55px;
+            width: 60rem ;
+            margin-left: 160px;
+            
+            
+          }
+         span{
+            font-size: 50px ;
+         }
+         input[type="radio"] {
+            width: 40px; /* Adjust width as needed */
+            height: 40px; /* Adjust height as needed */
+        }
+
+          h5{
+            font-size: 55px;
+            width: 500px;
+          }
+          .payment-2{
+            width: 60rem ;
+            margin-left: 160px;
+            font-size: 60px;
+             
+          }
+          input{
+            width: 950px;
+            height: 100px;
+          }
+          .submit{
+            width: 150px;
+            font-size: 45px;
+          }
+          p{
+            font-size: 55px;
+          }
+          .footer{
+            background-color: goldenrod;
+            width: 1275px;
+            padding: 50px;
+          } 
+          .foot{
+            font-size: 55px;
+            position: relative;
+            left: 310px;
+            color: black;
+          }    
+
+}
