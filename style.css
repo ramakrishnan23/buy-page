@@ -24,16 +24,180 @@ a{
     font-size: 50px;
     
 }
-@media screen and (min-width: 1024px) and (max-width: 1294px) {
-      .top{
-        width: 1300px;
-        background-color: aquamarine;
-        padding: 20px;
-      }
-}
-@media screen and (min-width: 320px) and (max-width: 1160px) {
+@media screen and (min-width: 1024px) and (max-width: 1252px) {
+  .top{
+    width: 1500px;
+    background-color: aquamarine;
+    padding: 20px;
+    font-size: 26px;
+  }
+  h2{
+    font-size: 30px;
+  }
+  .pay{
+    font-size: 25px;
+    width: 50rem ;
+    margin-left: 260px;
     
+    
+  }
+ span{
+    font-size: 25px ;
+ }
+ input[type="radio"] {
+    width: 40px; /* Adjust width as needed */
+    height: 40px; /* Adjust height as needed */
+}
 
+  h5{
+    font-size: 25px;
+    width: 300px;
+  }
+  .payment-2{
+    width: 50rem ;
+    margin-left: 260px;
+    font-size: 25px;
+     
+  }
+  input{
+    width: 700px;
+    height: 60px;
+  }
+  .submit{
+    width: 100px;
+    font-size: 35px;
+  }
+  p{
+    font-size: 25px;
+  }
+  .footer{
+    background-color: goldenrod;
+    width: 1250px;
+    padding: 20px;
+  } 
+  .foot{
+    font-size: 25px;
+    position: relative;
+    left: 510px;
+    color: black;
+  }
+}
+@media screen and (min-width: 1253px) and (max-width: 2560px) {
+  .top{
+    width: 1490px;
+    background-color: aquamarine;
+    padding: 20px;
+    font-size: 28px;
+  }
+  h2{
+    font-size: 30px;
+  }
+  .pay{
+    font-size: 30px;
+    width: 45rem ;
+    margin-left: 300px;
+    
+    
+  }
+ span{
+    font-size: 20px ;
+ }
+ input[type="radio"] {
+    width: 40px; /* Adjust width as needed */
+    height: 40px; /* Adjust height as needed */
+}
+
+  h5{
+    font-size: 30px;
+    width: 600px;
+  }
+  .payment-2{
+    width: 45rem ;
+    margin-left: 300px;
+    font-size: 30px;
+     
+  }
+  input{
+    width: 700px;
+    height: 60px;
+  }
+  .submit{
+    width: 200px;
+    font-size: 35px;
+  }
+  p{
+    font-size: 30px;
+  }
+  .footer{
+    background-color: goldenrod;
+    width: 1490px;
+    padding: 20px;
+  } 
+  .foot{
+    font-size: 25px;
+    position: relative;
+    left: 450px;
+    color: black;
+  }
+}
+@media screen and (min-width: 2348px) and (max-width: 2626px) {
+  .top{
+    width: 3250px;
+    background-color: aquamarine;
+    padding: 25px;
+    font-size: 32px;
+  }
+  h2{
+    font-size: 35px;
+  }
+  .pay{
+    font-size: 40px;
+    width: 70rem ;
+    margin-left: 1000px;
+    
+    
+  }
+ span{
+    font-size: 30px ;
+ }
+ input[type="radio"] {
+    width: 40px; /* Adjust width as needed */
+    height: 40px; /* Adjust height as needed */
+}
+
+  h5{
+    font-size: 35px;
+    width: 600px;
+  }
+  .payment-2{
+    width: 70rem ;
+    margin-left: 1000px;
+    font-size: 40px;
+     
+  }
+  input{
+    width: 1000px;
+    height: 60px;
+  }
+  .submit{
+    width: 200px;
+    font-size: 35px;
+  }
+  p{
+    font-size: 40px;
+    
+  }
+  .footer{
+    background-color: goldenrod;
+    width: 3250px;
+    padding: 25px;
+  } 
+  .foot{
+    font-size: 30px;
+    position: relative;
+    left: 1200px;
+    color: black;
+  }
 }
 @media screen and (min-width: 320px) and (max-width: 640px) {
           .top{
@@ -92,5 +256,64 @@ a{
             left: 310px;
             color: black;
           }    
+
+}
+@media screen and (min-width: 641px) and (max-width: 1023px) {
+  .top{
+    width: 1250px;
+    background-color: aquamarine;
+    padding: 30px;
+    font-size: 26px;
+  }
+  h2{
+    font-size: 40px;
+  }
+  .pay{
+    font-size: 35px;
+    width: 40rem ;
+    margin-left: 320px;
+    
+    
+  }
+ span{
+    font-size: 35px ;
+ }
+ input[type="radio"] {
+    width: 40px; /* Adjust width as needed */
+    height: 40px; /* Adjust height as needed */
+}
+
+  h5{
+    font-size: 35px;
+    width: 400px;
+  }
+  .payment-2{
+    width: 40rem ;
+    margin-left: 320px;
+    font-size: 35px;
+     
+  }
+  input{
+    width: 600px;
+    height: 80px;
+  }
+  .submit{
+    width: 100px;
+    font-size: 35px;
+  }
+  p{
+    font-size: 25px;
+  }
+  .footer{
+    background-color: goldenrod;
+    width: 1250px;
+    padding: 30px;
+  } 
+  .foot{
+    font-size: 35px;
+    position: relative;
+    left: 390px;
+    color: black;
+  }    
 
 }
